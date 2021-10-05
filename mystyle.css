@@ -1,3 +1,6 @@
 /*CSS練習１*/
 /*h1{color:blue}*/
 h1{color: green;}
+
+th td{border: dashed thick black;}
+/*th td{border: solid thick green;}*/

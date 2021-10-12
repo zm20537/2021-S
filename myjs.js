@@ -11,4 +11,4 @@
 // alert('2'+3); /*23おそらく、''でくくったものは、数字が2つあると一つ目が10の位に*/
 //alert(Number('2')+3); /*5*/
 
-alert(Math.sqrt(2) + Math.sqrt(3));
+alert(Math.sqrt(2) + Math.sqrt(3));//2の平方根と3の平方根の和

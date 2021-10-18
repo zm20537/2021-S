@@ -12,7 +12,7 @@
 //alert(Number('2')+3); /*5*/
 
 //2の平方根と3の平方根の和
-alert(Math.sqrt(2) + Math.sqrt(3)); //
+alert(Math.sqrt(2) + Math.sqrt(3)); //3.1462643699419726と表示された
 //1を0で割る
 // alert(1/0); //Infinitiと表示された(JavaScriptが扱える限界を越えたの意)
 //0を0で割る

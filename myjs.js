@@ -11,4 +11,9 @@
 // alert('2'+3); /*23おそらく、''でくくったものは、数字が2つあると一つ目が10の位に*/
 //alert(Number('2')+3); /*5*/
 
-alert(Math.sqrt(2) + Math.sqrt(3));//2の平方根と3の平方根の和
+//2の平方根と3の平方根の和
+alert(Math.sqrt(2) + Math.sqrt(3)); //
+//1を0で割る
+// alert(1/0); //Infinitiと表示された(JavaScriptが扱える限界を越えたの意)
+//0を0で割る
+// alert(0/0); //NaNと表示された(Not A Numberの略。計算結果が数値として表せないの意)

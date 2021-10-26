@@ -1,5 +1,5 @@
 var saygoodbye = 'Goodbye';
 
-function saygoodbye(){
+function goodbye(){
     alert(saygoodbye);
 }

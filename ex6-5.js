@@ -7,9 +7,7 @@ function gakita(){
 }
 function taro65(){
     who65 = '太郎';
-    function gakita();
 }
 function hanako65(){
     who65 = '花子';
-    function gakita();
 }

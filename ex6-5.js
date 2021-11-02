@@ -10,6 +10,6 @@ function hanako65(){
     who65 = '花子';
 }
 
-function gakita() {
+function gakita(){
     alert(who65 + 'がきた！');
 }

@@ -1,3 +1,6 @@
 function imgchange1(){
-    Image.getElementById('img1').innerHTML =;
+    document.getElementById('logo').src='./image/keiei_small.jpg';
+}
+function imgchange1(){
+    document.getElementById('logo2').src='./image/nyancat.gif';
 }

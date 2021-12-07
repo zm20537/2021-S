@@ -1,4 +1,3 @@
-/*
 function hyoji(){
     //表示する文字
     var str ="一文字ずつ表示します。";
@@ -18,7 +17,7 @@ function startfnc(){
     //関数hyoji()を1000ミリ秒間隔で呼び出す
     setInterval("hyoji()",1000);
 }
-*/
+
 function mes(){
     alert("3秒経ちました！")
 }

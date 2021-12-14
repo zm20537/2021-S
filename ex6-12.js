@@ -14,3 +14,7 @@ function hyoji(){
     }
     setTimeout("hyoji()", 1000);
 }
+function startfnc(){
+    //関数hyoji()を1000ミリ秒間隔で呼び出す
+    setInterval("hyoji()",100);
+}

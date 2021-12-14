@@ -13,7 +13,7 @@ function hyoji()
     else
     {
         //全て表示されたら、空文字に戻す
-        document.timer.moji.value="";
+        document.timer.moji.value=" ";
     }
     setTimeout("hyoji()", 1000);
 }

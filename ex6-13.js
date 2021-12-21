@@ -1,6 +1,6 @@
 function imagechange3s()
 {
-    document.getElementById('logo3s').src='./image/nyancat.jpg';
+    document.getElementById('logo3s').src='./image/nyancat.gif';
 }
 function bthrees()
 {

@@ -16,6 +16,7 @@
         <script src="ex6-11.js"></script>
         <script src="ex6-12.js"></script>
         <script src="ex6-13.js"></script>
+        <script src="ex7-1.js"></script>
     </head>
     <body>
         <!--文字の大きさの練習-->
@@ -141,12 +142,14 @@
 
 
         <h1>タイマーイベントによる実行6-13</h1>
-        <p>3秒後自動で元の画像に戻ります。</p>
+        <p>ボタンクリック3秒後、自動で元の画像に戻ります。</p>
         <input type="button" value="画像の変更" onclick="imgechange3s();setTimeout('bthrees()',3000)">
         <img src='./image/keiei_small.jpg' id="logo3s" alt="城西大学 17号館" class="imagechange">
         <br>
 
-
+        <h1>テキスト入力の練習</h1>
+        <input type="button" value="あいさつ" onclick="sayhello71();">
+        <p>誰？<input type="text" id="who71"></p>
 
 
     </body>

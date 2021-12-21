@@ -1,4 +1,4 @@
-function imagechange3s()
+function imgechange3s()
 {
     document.getElementById('logo3s').src='./image/nyancat.gif';
 }

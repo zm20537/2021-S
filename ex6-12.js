@@ -19,6 +19,3 @@ function hyoji()
     }
     setTimeout("hyoji()",1000);
 }
-function mes(){
-    alert("3秒経ちました！")
-}

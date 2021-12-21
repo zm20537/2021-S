@@ -1,4 +1,4 @@
-function hyoji()
+function hyojiji()
 {
     //表示する文字
     //strは、文字列
@@ -17,5 +17,5 @@ function hyoji()
         //全て表示されたら、空文字に戻す
         document.timert.mojimo.value= "";
     }
-    setTimeout("hyoji()",1000);
+    setTimeout("hyojiji()",1000);
 }
